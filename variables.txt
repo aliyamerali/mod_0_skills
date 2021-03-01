@@ -1,0 +1,12 @@
+movie = "Moana"
+is_entertaining = true
+movie = "The Big Sick"
+
+num_4 = 4
+num_6 = 6
+product = num_6 * num_4
+
+favorite_foods = ["popcorn", "cookies", "donuts"]
+
+favorite_foods.shift
+movie.length
