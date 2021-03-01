@@ -2,10 +2,10 @@
 
 ### Attributes:
    ```ruby
-   `gate = 34`
-   `destination = "JFK"`
-   `passenger_list = {"3A": "Aliya Merali", "3B": "Tanner Welsh", "7E": "Valerie June"}`
-   `on_time = true`
+   gate = 34
+   destination = "JFK"
+   passenger_list = {"3A": "Aliya Merali", "3B": "Tanner Welsh", "7E": "Valerie June"}
+   on_time = true
    ```
 
 ### Methods:
